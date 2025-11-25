@@ -1,4 +1,4 @@
-//Group 20 Assignment 3
+//Group 16 Assignment 3
 //Konner Yi
 
 #include <stdio.h>
